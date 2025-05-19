@@ -68,7 +68,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/library-system.git
+git clone https://github.com/KTR-Saurabh/Library-Management-System-Masai-Project.git
 cd library-system
 Install required packages:
 
